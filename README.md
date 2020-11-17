@@ -1,1 +1,2 @@
-# class-35-racing-game-2
+# synchronousBallMovement
+Ball moving synchronously
